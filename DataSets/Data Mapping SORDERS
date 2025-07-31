@@ -1,0 +1,10 @@
+-- Data We Need From SAP HANA as of 7/31/2025 for ZTZMEB_SORDERS
+PRSDT		Date For Pricing and exchange rate
+KURSK		Exchange Rate for Price Determination_KURSK
+NETWRI		Net value of the order item in document currency_NETWRI
+NETWRIUSD		Net Value - Item in USD_NETWRIUSD
+WAERKUSD		SD Document Currency_WAERKUSD
+MWSBP		Tax amount in document currency_MWSBP
+MWSBPUDS		Item Tax amount in USD_MWSBPUSD
+BUKRS_VF		Company code to be billed
+AUGRU		Order reason (reason for the business transaction)_AUGRU
